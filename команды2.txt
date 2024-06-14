@@ -1,0 +1,7 @@
+включи музыку|
+стоп|
+переключи|
+закрыть видео|
+полный экран|
+апельсин|https://www.youtube.com/watch?v=Vr-DOV-TP5s
+салам|C:\Users\User\Downloads
